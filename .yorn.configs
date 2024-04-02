@@ -1,0 +1,16 @@
+{
+    "type": "library",
+    "language": "Cpp",
+    "name": "Library-Cpp-Papaya",
+    "description": "Papaya, need another explanation ????",
+    "version": "0.1.0",
+    "dependencies": [],
+    "build": "make",
+    "build_flags": "-lpapaya",
+    "build_files": [
+        "libpapaya.a"
+    ],
+    "export_files": [
+        "includes/Papaya.hpp"
+    ]
+}
